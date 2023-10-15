@@ -1,0 +1,28 @@
+
+.bir{
+    width: 190px;
+    height: 260px;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 100px;
+    margin-top:150px ;
+}
+.ikki{
+    width: 190px;
+    height: 260px;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 330px;
+    margin-top: -280px;
+}
+.uch{
+    width: 190px;
+    height: 275px;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 560px;
+    margin-top: -280px;
+}

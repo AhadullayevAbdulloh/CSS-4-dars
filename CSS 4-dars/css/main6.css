@@ -1,0 +1,32 @@
+.bir{
+ margin-top: 20px;
+    margin-left: 200px;
+}
+.ikki{
+    margin-top: -90px;
+    margin-left: 400px;
+}
+.uch{
+    border: solid 1px black;
+    height: 300px;
+    width: 150px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 170px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.tort{
+    border: solid 1px black;
+    height: 300px;
+    width: 150px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 370px;
+    margin-top: -320px;
+    border-radius: 20px;
+}
+.bew{
+    color: green;
+    margin-left: 90px;
+}
